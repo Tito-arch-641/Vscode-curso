@@ -1,0 +1,1 @@
+ holaaa Sabri, al final no se pudo resolver el problema adsahgd, tuvimos que desinstalar y volver a instalar
